@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: if I could have any superpower, it would be  Precognition
 ### My stack and tools:
 ![JavaScript](https://github.com/massqeen/massqeen/blob/master/icons/javascript2.png "JavaScript")
-![HTML5](./icons/html5.png "HTML5") 
-![CSS3](./icons/css3.png "CSS3")
-![Bootstrap](./icons/bootstrap.png "Bootstrap")
-![Webpack](./icons/webpack.png "Webpack")
-![Gulp](./icons/gulp.png "Gulp")
-![Babel](./icons/babel.png "Babel")
-![Git](./icons/git.png "Git")
-![GitHub](./icons/github.png "GitHub")
-![Terminal](./icons/terminal.png "Terminal")
-![VSCode](./icons/visual-studio-code.png "VSCode")
-![WebStorm](./icons/webstorm.png "WebStorm")
+![HTML5](https://github.com/massqeen/massqeen/raw/master/icons/html5.png "HTML5") 
+![CSS3](https://github.com/massqeen/massqeen/raw/master/icons/css3.png "CSS3")
+![Bootstrap](https://github.com/massqeen/massqeen/raw/master/icons/bootstrap.png "Bootstrap")
+![Webpack](https://github.com/massqeen/massqeen/raw/master/icons/webpack.png "Webpack")
+![Gulp](https://github.com/massqeen/massqeen/raw/master/icons/gulp.png "Gulp")
+![Babel](https://github.com/massqeen/massqeen/raw/master/icons/babel.png "Babel")
+![Git](https://github.com/massqeen/massqeen/raw/master/icons/git.png "Git")
+![GitHub](https://github.com/massqeen/massqeen/raw/master/icons/github.png "GitHub")
+![Terminal](https://github.com/massqeen/massqeen/raw/master/icons/terminal.png "Terminal")
+![VSCode](https://github.com/massqeen/massqeen/raw/master/icons/visual-studio-code.png "VSCode")
+![WebStorm](https://github.com/massqeen/massqeen/raw/master/icons/webstorm.png "WebStorm")
 
 
