@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: massqeen@gmail.com
 - ⚡ Fun fact: if I could have any superpower, it would be  Precognition
 ### My stack and tools:
-![JavaScript](./icons/javascript2.png "JavaScript")
+![JavaScript](https://github.com/massqeen/massqeen/blob/master/icons/javascript2.png "JavaScript")
 ![HTML5](./icons/html5.png "HTML5") 
 ![CSS3](./icons/css3.png "CSS3")
 ![Bootstrap](./icons/bootstrap.png "Bootstrap")
