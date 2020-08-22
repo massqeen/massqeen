@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: massqeen@gmail.com
 - ⚡ Fun fact: if I could have any superpower, it would be  Precognition
 ### My stack and tools:
-![alt text](icons/javascript2.png "JavaScript")
-![alt text](icons/html5.png "HTML5") 
-![alt text](icons/css3.png "CSS3")
-![alt text](icons/bootstrap.png "Bootstrap")
-![alt text](icons/webpack.png "Webpack")
-![alt text](icons/gulp.png "Gulp")
-![alt text](icons/babel.png "Babel")
-![alt text](icons/git.png "Git")
-![alt text](icons/github.png "GitHub")
-![alt text](icons/terminal.png "Terminal")
-![alt text](icons/visual-studio-code.png "VSCode")
-![alt text](icons/webstorm.png "WebStorm")
+![JavaScript](./icons/javascript2.png "JavaScript")
+![HTML5](./icons/html5.png "HTML5") 
+![CSS3](./icons/css3.png "CSS3")
+![Bootstrap](./icons/bootstrap.png "Bootstrap")
+![Webpack](./icons/webpack.png "Webpack")
+![Gulp](./icons/gulp.png "Gulp")
+![Babel](./icons/babel.png "Babel")
+![Git](./icons/git.png "Git")
+![GitHub](./icons/github.png "GitHub")
+![Terminal](./icons/terminal.png "Terminal")
+![VSCode](./icons/visual-studio-code.png "VSCode")
+![WebStorm](./icons/webstorm.png "WebStorm")
 
 
