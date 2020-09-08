@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ![VSCode](https://github.com/massqeen/massqeen/raw/master/icons/visual-studio-code.png "VSCode")
 ![WebStorm](https://github.com/massqeen/massqeen/raw/master/icons/webstorm.png "WebStorm")
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=massqeen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=massqeen&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
