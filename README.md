@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: massqeen@gmail.com
 - ⚡ Fun fact: if I could have any superpower, it would be  Precognition
+- 😄 Another fun fact: Fun facts normally aren't fun
 ### My stack and tools:
 ![JavaScript](https://github.com/massqeen/massqeen/blob/master/icons/javascript2.png "JavaScript")
 ![HTML5](https://github.com/massqeen/massqeen/raw/master/icons/html5.png "HTML5") 
